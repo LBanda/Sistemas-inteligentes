@@ -1,1 +1,4 @@
-pymc3
+scipy
+numpy
+matplotlib
+scikit-learn
